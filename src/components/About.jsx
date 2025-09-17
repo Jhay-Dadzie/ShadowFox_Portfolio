@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { ImageWithFallback } from './figma/ImageWithFallBack';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 
 export function About() {
   return (
