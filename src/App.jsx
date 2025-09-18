@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import { Analytics } from "@vercel/analytics/next"
 import { Header } from './components/Header';
 import { Hero } from './components/Hero';
 import { About } from './components/About';
@@ -42,6 +43,7 @@ function App() {
         <Skills />
         <Projects />
         <Contact />
+        <Analytics />
       </main>
       
       <Footer />
