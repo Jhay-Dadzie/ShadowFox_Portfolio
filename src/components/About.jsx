@@ -78,7 +78,7 @@ export function About() {
             </div>
 
             <a
-              href="../../public/MY_CV.pdf"
+              href="/MY_CV.pdf"
               download
               target="_blank"
               rel="noopener noreferrer"
