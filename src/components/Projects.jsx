@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { ExternalLink, Github } from 'lucide-react';
-import { ImageWithFallback } from './figma/ImageWithFallBack';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 
 export function Projects() {
   const projects = [
